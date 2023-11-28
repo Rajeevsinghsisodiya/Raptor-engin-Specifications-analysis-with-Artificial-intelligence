@@ -1,0 +1,2 @@
+# Raptor-engin-Specifications-analysis-with-Artificial-intelligence
+The SpaceX Raptor is a cryogenic staged combustion rocket engine intended to power the high-performance lower and upper stages for the Interplanetary Transport System. It has more than three times the thrust of SpaceX’s Merlin 1D engines propelling the Falcon 9 and Falcon Heavy rockets and steps away from a Kerosene-based propellant.
